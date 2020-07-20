@@ -1,0 +1,17 @@
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Infrastructure.DataBase.dll.config
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Infrastructure.DataBase.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Infrastructure.DataBase.pdb
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Domain.Model.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\EntityFramework.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Infrastructure.EntityFramework.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Domain.Model.pdb
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Infrastructure.EntityFramework.pdb
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\Infrastructure.EntityFramework.dll.config
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\EntityFramework.xml
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\obj\Debug\Infrastructure.DataBase.csprojAssemblyReference.cache
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\obj\Debug\Infrastructure.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\obj\Debug\Infrastructure.DataBase.csproj.CopyComplete
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\obj\Debug\Infrastructure.DataBase.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.DataBase\obj\Debug\Infrastructure.DataBase.pdb

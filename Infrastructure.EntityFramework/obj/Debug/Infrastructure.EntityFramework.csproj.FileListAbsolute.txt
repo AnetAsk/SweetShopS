@@ -1,0 +1,16 @@
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\Infrastructure.EntityFramework.dll.config
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\Infrastructure.EntityFramework.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\Infrastructure.EntityFramework.pdb
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\Domain.Model.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\Domain.Model.pdb
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.csprojAssemblyReference.cache
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.Migrations.Initialize.resources
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.csproj.GenerateResource.cache
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.csproj.CopyComplete
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.dll
+C:\Users\askar\source\repos\ASP.NET\SweetShopApp\Infrastructure.EntityFramework\obj\Debug\Infrastructure.EntityFramework.pdb
